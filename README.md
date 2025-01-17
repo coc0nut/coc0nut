@@ -14,7 +14,7 @@
   - Webapplications
     - API
   - C++
-    - Qt
+    - Qt, QML
   - Python
     - Qt
     - Django
