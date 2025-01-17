@@ -4,6 +4,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working with ...
+  
 | Category           | Subcategories          |
 |--------------------|------------------------|
 | Linux              | Debian, Shellscripting |
