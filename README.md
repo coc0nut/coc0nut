@@ -4,24 +4,16 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working with ...
-  - Linux 
-    - Debian
-    - Shellscripting
-  - Networkengineering
-    - Cisco iOS 
-  - Containers
-    - Docker
-  - Webapplications
-    - API
-  - C++
-    - Qt, QML
-  - Python
-    - Qt
-    - Django
-    - Jupyter
-  - Javascript
-    - React
-  - Opensource
+| Category           | Subcategories          |
+|--------------------|------------------------|
+| Linux              | Debian, Shellscripting |
+| Networkengineering | Cisco iOS              |
+| Containers         | Docker                 |
+| Webapplications    | API                    |
+| C++                | Qt, QML                |
+| Python             | Qt, Django, Jupyter    |
+| Javascript         | React                  |
+| Opensource         |                        |
 
 
 - 🌱 I’m currently learning ...
