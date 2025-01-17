@@ -24,7 +24,7 @@
   - Network Engineering
   - Architecture and Systemmodelling
 
-- ⚡ Fun fact: Clouds are constantly changingSS
+- ⚡ Fun fact: Clouds are constantly changing!
 
 - 📫 How to reach me: ...
   - coc0nut@protonmail.com
