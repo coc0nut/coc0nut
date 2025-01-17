@@ -11,10 +11,31 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working with ...
-  - Linux, Networking and Containers, Django, React, API's
+  - Linux 
+    - Debian
+    - Shellscripting
+  - Networkengineering
+    - Cisco iOS 
+  - Containers
+    - Docker
+  - Webapplications
+    - API
+  - C++
+    - Qt
+  - Python
+    - Qt
+    - Django
+    - Jupyter
+  - Javascript
+    - React
+  - Opensource
+
+
 - 🌱 I’m currently learning ...
   - Webapplications and C++, Cybersecurity and Architecture and Systemmodelling
- 
+
+
+
 - 📫 How to reach me: ...
   - coc0nut@protonmail.com
  
