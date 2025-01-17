@@ -11,7 +11,7 @@
 | Networkengineering | Cisco iOS              |
 | Containers         | Docker                 |
 | Webapplications    | API                    |
-| C++                | Qt, QML                |
+| C++                | OOP, Qt, QML           |
 | Python             | Qt, Django, Jupyter    |
 | Javascript         | React                  |
 | Opensource         |                        |
