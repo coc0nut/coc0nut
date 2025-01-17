@@ -1,12 +1,5 @@
-```shell
-    _         _         _         _        _            _      _     
- __/\\___  __/\\___  __/\\___  __/\\__   _/\\___   ___ /\\  __/\\__  
-(_  ____))(_     _))(_  ____))(_    __))(_      ))/  //\ \\(__  __)) 
- /  ||     /  _  \\  /  ||     /  _  \\  /  :   \\\:.\\_\ \\ /  \\   
-/:. ||___ /:.(_)) \\/:. ||___ /:.(_)) \\/:. |   // \  :.  ///:.  \\  
-\  _____))\  _____//\  _____))\  _____//\___|  // (_   ___))\__  //  
- \//       \//       \//       \//           \//    \//        \//   
-```
+
+![banner](image.png)
 
 ## Hi there 👋
 
@@ -38,7 +31,7 @@
   - Network Engineering
   - Architecture and Systemmodelling
 
-- ⚡ Fun fact: Clouds are constantly changing
+- ⚡ Fun fact: Clouds are constantly changingSS
 
 - 📫 How to reach me: ...
   - coc0nut@protonmail.com
