@@ -32,7 +32,11 @@
 
 
 - 🌱 I’m currently learning ...
-  - Webapplications and C++, Cybersecurity and Architecture and Systemmodelling
+  - Webapplications 
+  - C++ 
+  - Cybersecurity 
+  - Network Engineering
+  - Architecture and Systemmodelling
 
 
 
