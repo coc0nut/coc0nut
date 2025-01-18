@@ -4,6 +4,7 @@
 ## Hi there 👋
 
 <div style="display: flex; flex-direction: column;">
+  <div>
 
 - 🔭 I’m currently working with ...
   
@@ -17,15 +18,15 @@
 | Python             | Qt, Django, Jupyter    |
 | Javascript         | React                  |
 | Opensource         |                        |
-
-
+  </div>
+  <div>
 - 🌱 I’m currently learning ...
   - Webapplications 
   - C++ 
   - Cybersecurity 
   - Network Engineering
   - Architecture and Systemmodelling
-
+  </div>
 </div>
 
 - ⚡ Fun fact: Clouds are constantly changing!
