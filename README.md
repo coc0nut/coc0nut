@@ -5,7 +5,7 @@
 
 <table style="border: none; border-collapse: collapse;">
 <tr>
-<th>🔭 I’m currently working with</th>
+<th style="border: none;>🔭 I’m currently working with</th>
 <th>🌱 I’m currently learning </th>
 </tr>
 <tr>
