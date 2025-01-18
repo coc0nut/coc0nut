@@ -5,9 +5,10 @@
 
 <table>
 <tr>
-<th>
-- 🔭 I’m currently working with ...
-</th>
+<th>🔭 I’m currently working with</th>
+<th>🌱 I’m currently learning </th>
+</tr>
+<tr>
 <td>
   
 | Category           | Subcategories          |
@@ -22,9 +23,7 @@
 | Opensource         |                        |
     
 </td>
-<th>
-- 🌱 I’m currently learning ...
-</th>
+
 <td>
   - Webapplications 
   - C++ 
