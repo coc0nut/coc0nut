@@ -36,7 +36,7 @@
 </tr>
 </table>
 
-- ⚡ Fun fact: Clouds are constantly changing!
+- ⚡ Fun fact: Clouds is constantly changing!
 
 - 📫 How to reach me: ...
   - coc0nut@protonmail.com
