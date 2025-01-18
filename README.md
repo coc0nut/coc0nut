@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-
+<center>
 <table style="border-radius: 8px;">
 <tr>
 <th>🔭 I’m currently working with</th>
