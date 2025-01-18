@@ -3,6 +3,8 @@
 
 ## Hi there 👋
 
+<div styles="{display: flex;}">
+
 - 🔭 I’m currently working with ...
   
 | Category           | Subcategories          |
@@ -23,6 +25,8 @@
   - Cybersecurity 
   - Network Engineering
   - Architecture and Systemmodelling
+
+</div>
 
 - ⚡ Fun fact: Clouds are constantly changing!
 
