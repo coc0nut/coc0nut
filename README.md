@@ -26,11 +26,11 @@
 
 <td>
   <ul>
-  - Webapplications 
-  - C++ 
-  - Cybersecurity 
-  - Network Engineering
-  - Architecture and Systemmodelling
+    <li>Webapplications</li> 
+    <li>C++ </li>
+    <li>Cybersecurity</li>
+    <li>Network Engineering</li>
+    <li>Architecture and Systemmodelling</li>
   </ul>  
 </td>
 </tr>
