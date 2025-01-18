@@ -3,6 +3,7 @@
 
 ## Hi there 👋
 
+
 <table style="border-radius: 8px;">
 <tr>
 <th>🔭 I’m currently working with</th>
@@ -35,6 +36,7 @@
 </td>
 </tr>
 </table>
+</center>
 
 - ⚡ Fun fact: Clouds are constantly changing!
 
