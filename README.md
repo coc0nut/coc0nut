@@ -3,10 +3,10 @@
 
 ## Hi there 👋
 
-<table style="border-radius: 8px;">
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<th style="border: none;>🔭 I’m currently working with</th>
-<th>🌱 I’m currently learning </th>
+<th style="border: none;">🔭 I’m currently working with</th>
+<th style="border: none;">🌱 I’m currently learning </th>
 </tr>
 <tr>
 <td>
