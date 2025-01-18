@@ -5,8 +5,10 @@
 
 <table>
 <tr>
-<td>
+<th>
 - 🔭 I’m currently working with ...
+</th>
+<td>
   
 | Category           | Subcategories          |
 |--------------------|------------------------|
@@ -20,9 +22,10 @@
 | Opensource         |                        |
     
 </td>
-<td>
-
+<th>
 - 🌱 I’m currently learning ...
+</th>
+<td>
   - Webapplications 
   - C++ 
   - Cybersecurity 
