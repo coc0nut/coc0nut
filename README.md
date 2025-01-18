@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none;">
 <tr>
 <th style="border: none;>🔭 I’m currently working with</th>
 <th>🌱 I’m currently learning </th>
