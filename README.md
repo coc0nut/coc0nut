@@ -3,8 +3,7 @@
 
 ## Hi there 👋
 
-<center>
-<table style="border-radius: 8px;">
+<table style="border: none; border-collapse: collapse;">
 <tr>
 <th>🔭 I’m currently working with</th>
 <th>🌱 I’m currently learning </th>
@@ -36,7 +35,6 @@
 </td>
 </tr>
 </table>
-</center>
 
 - ⚡ Fun fact: Clouds are constantly changing!
 
