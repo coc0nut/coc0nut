@@ -25,12 +25,13 @@
 </td>
 
 <td>
+  <ul>
   - Webapplications 
   - C++ 
   - Cybersecurity 
   - Network Engineering
   - Architecture and Systemmodelling
-    
+  </ul>  
 </td>
 </tr>
 </table>
