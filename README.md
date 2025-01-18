@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-<div styles="{display: flex;}">
+<div style="display: flex;">
 
 - 🔭 I’m currently working with ...
   
