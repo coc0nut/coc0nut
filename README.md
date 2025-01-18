@@ -3,9 +3,9 @@
 
 ## Hi there 👋
 
-<div style="display: flex; flex-direction: column;">
-  <div>
-
+<table>
+  <tr>
+    <td>
 - 🔭 I’m currently working with ...
   
 | Category           | Subcategories          |
@@ -18,16 +18,20 @@
 | Python             | Qt, Django, Jupyter    |
 | Javascript         | React                  |
 | Opensource         |                        |
-  </div>
-  <div>
+    
+    </td>
+    <td>
+
 - 🌱 I’m currently learning ...
   - Webapplications 
   - C++ 
   - Cybersecurity 
   - Network Engineering
   - Architecture and Systemmodelling
-  </div>
-</div>
+    
+    </td>
+  </tr>
+</table>
 
 - ⚡ Fun fact: Clouds are constantly changing!
 
