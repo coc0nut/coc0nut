@@ -19,7 +19,7 @@
 | Webapplications    | API                    |
 | C++                | OOP, Qt, QML           |
 | Python             | Qt, Django, Jupyter    |
-| Javascript         | React                  |
+| Javascript         | Typescript React       |
 | Opensource         |                        |
     
 </td>
