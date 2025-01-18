@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-<table>
+<table style="border-radius: 8px;">
 <tr>
 <th>🔭 I’m currently working with</th>
 <th>🌱 I’m currently learning </th>
