@@ -4,8 +4,8 @@
 ## Hi there 👋
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td>
 - 🔭 I’m currently working with ...
   
 | Category           | Subcategories          |
@@ -19,8 +19,8 @@
 | Javascript         | React                  |
 | Opensource         |                        |
     
-    </td>
-    <td>
+</td>
+<td>
 
 - 🌱 I’m currently learning ...
   - Webapplications 
@@ -29,8 +29,8 @@
   - Network Engineering
   - Architecture and Systemmodelling
     
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 - ⚡ Fun fact: Clouds are constantly changing!
